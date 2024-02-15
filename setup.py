@@ -15,7 +15,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-    name="DiamonPricePrediction2",
+    name="StudentPerformanceIndicator",
     version="0.0.1",
     author="Jasna",
     author_email="jasnaovungal@gmail.com",
